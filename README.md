@@ -17,7 +17,11 @@
 	              </tr>
               	<tr align="left">
 	               <td> ITEM 3. </td>
-                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM3_%EC%B5%9C%EB%8C%80%ED%95%9C%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md" title="최대한 플랫폼 타입을 사용하지 말라"> 최대한 플랫폼 타입을 사용하지 말라 </a> </td> </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM3_%EC%B5%9C%EB%8C%80%ED%95%9C%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md" title="최대한 플랫폼 타입을 사용하지 말라"> 최대한 플랫폼 타입을 사용하지 말라 </a> </td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 4. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM4_inferred%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md" title="inferred 타입으로 리턴하지 말라"> inferred 타입으로 리턴하지 말라 </a> </td>
 	              </tr>
 	      </table>
     </details> 
