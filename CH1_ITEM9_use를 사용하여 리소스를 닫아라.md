@@ -1,4 +1,4 @@
-## CHATEPER 1(안정성) _ ITEM 8. user를 사용하여 리소스를 닫아라
+## CHATEPER 1(안정성) _ ITEM 9. use를 사용하여 리소스를 닫아라
 
 - **close 메소드를 사용하여 명시적으로 닫아야 하는 리소스들이 있다.**
   - 아래 리소스들이 그러하며, 이들은 AutoCloseable을 상속받는 Closeable 인터페이스를 구현(implement)하고 있다.
