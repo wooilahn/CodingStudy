@@ -49,4 +49,26 @@
 	              </tr>
 	      </table>
     </details> 
+    <details close>
+    <summary> <h3> CHAPTER 2 - 가독성 </h3> </summary>
+       <table align="center">
+	       <th>No. </th>
+	       <th>Title </th>
+              	<tr align="left">
+	               <td> ITEM 11. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM1_%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC.md" title="가독성을 목표로 설계하라"> 가독성을 목표로 설계하라 </a></td>
+	              </tr>
+	      </table>
+    </details> 
+    <details close>
+    <summary> <h3> CHAPTER 3 - 재사용성 </h3> </summary>
+       <table align="center">
+	       <th>No. </th>
+	       <th>Title </th>
+              	<tr align="left">
+	               <td> ITEM 19. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM1_%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC.md" title="knowledge를 반복하여 사용하지 말라"> knowledge를 반복하여 사용하지 말라 </a></td>
+	              </tr>
+	      </table>
+    </details> 
 </div>
