@@ -56,7 +56,7 @@
 	       <th>Title </th>
               	<tr align="left">
 	               <td> ITEM 11. </td>
-                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM1_%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC.md" title="가독성을 목표로 설계하라"> 가독성을 목표로 설계하라 </a></td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM11_%EA%B0%80%EB%8F%85%EC%84%B1%EC%9D%84%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC.md" title="가독성을 목표로 설계하라"> 가독성을 목표로 설계하라 </a></td>
 	              </tr>
               	<tr align="left">
 	               <td> ITEM 12. </td>
