@@ -58,6 +58,34 @@
 	               <td> ITEM 11. </td>
                        <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH1_ITEM1_%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC.md" title="가독성을 목표로 설계하라"> 가독성을 목표로 설계하라 </a></td>
 	              </tr>
+              	<tr align="left">
+	               <td> ITEM 12. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM12_%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%93%9C%EB%A5%BC%20%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%9D%98%EB%AF%B8%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md" title="연산자 오버로드를 할 때는 의미에 맞게 사용하라"> 연산자 오버로드를 할 때는 의미에 맞게 사용하라 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 13. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM13_Unit%3F%EC%9D%84%20%EB%A6%AC%ED%84%B4%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md" title="Unit?을 리턴하지 말라"> Unit?을 리턴하지 말라 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 14. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM14_%EB%B3%80%EC%88%98%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EB%AA%85%ED%99%95%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B2%BD%EC%9A%B0%20%ED%99%95%EC%8B%A4%ED%95%98%EA%B2%8C%20%EC%A7%80%EC%A0%95%ED%95%98%EB%9D%BC.md" title="변수 타입이 명확하지 않은 경우 확실하게 지정하라"> 변수 타입이 명확하지 않은 경우 확실하게 지정하라 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 15. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM15_%EB%A6%AC%EC%8B%9C%EB%B2%84%EB%A5%BC%20%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC.md" title="리시버를 명시적으로 참조하라"> 리시버를 명시적으로 참조하라 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 16. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM16_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%8A%94%20%EB%8F%99%EC%9E%91%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%EC%83%81%ED%83%9C%EB%A5%BC%20%EB%82%98%ED%83%80%EB%82%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4.md" title="프로퍼티는 동작이 아니라 상태를 나타내야 한다"> 프로퍼티는 동작이 아니라 상태를 나타내야 한다 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 17. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM17_%EC%9D%B4%EB%A6%84%20%EC%9E%88%EB%8A%94%20%EC%95%84%EA%B7%9C%EB%A8%BC%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md" title="이름 있는 아규먼트(Argument)를 사용하라"> 이름 있는 아규먼트(Argument)를 사용하라 </a></td>
+	              </tr>
+              	<tr align="left">
+	               <td> ITEM 18. </td>
+                       <td> <a href="https://github.com/wooilahn/Effective_Kotlin/blob/main/CH2/CH2_ITEM18_%EC%BD%94%EB%94%A9%20%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9D%84%20%EC%A7%80%EC%BC%9C%EB%9D%BC.md" title="코딩 컨벤션을 지켜라"> 코딩 컨벤션을 지켜라 </a></td>
+	              </tr>
 	      </table>
     </details> 
     <details close>
