@@ -49,7 +49,7 @@
 	              </tr>
 	      </table>
     </details> 
-    <details close>
+    <details open>
     <summary> <h3> CHAPTER 2 - 가독성 </h3> </summary>
        <table align="center">
 	       <th>No. </th>
@@ -88,7 +88,7 @@
 	              </tr>
 	      </table>
     </details> 
-    <details close>
+    <details open>
     <summary> <h3> CHAPTER 3 - 재사용성 </h3> </summary>
        <table align="center">
 	       <th>No. </th>
