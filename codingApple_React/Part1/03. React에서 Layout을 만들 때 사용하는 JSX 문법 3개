@@ -1,0 +1,13 @@
+## PART 1(블로그 제작 & 기초 문법) _ 03. React에서 Layout을 만들 때 사용하는 JSX 문법 3개
+
+- **JSX 문법**
+  1. 문법 1) class를 넣을 때, className을 사용해야 한다.
+  2. 문법 2) 변수를 넣을 때 (Data binding을 할 때), '{중괄호}'로 사용해야 한다.
+  3. 문법 3) style을 넣을 때, 'style={}'로 사용해야 한다. (ex. <h4 style={{color:'red', fontSize:'16px'}}> blog </h4>)
+----
+- **참고 사항**
+  - JSX: 'js 파일에서 쓰는 html 대용품'이라고 생각하면 된다.
+  - html에서는 class를, JSX에서는 className을 사용한다.
+  - css파일을 쓰려면 상안에 'import (css_file_path)'를 작성해주면 된다.
+  - 기존에 React 없이, html 코드 안에 넣으려면 document.querySelector('h4').innerHTML = post;와 같이 사용했다.
+  - JSX를 사용하면, <h4> {post} </h4>와 같이 간단히 변수를 사용할 수 있다.
