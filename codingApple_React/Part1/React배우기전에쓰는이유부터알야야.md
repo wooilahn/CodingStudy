@@ -1,1 +1,12 @@
 ## PART 1(블로그 제작 & 기초 문법) _ React 배우기 전에 쓰는 이유부터 알아야
+
+- **Q1) 왜 React를 쓰는가?**
+  - Single Page Application을 만들 때 주로 사용한다.
+  - PureJS를 쓰고도 가능하지만, 코드가 길고 복잡해지므로 'React'라는 library를 사용하는 것이다.
+  - React 외에도 Vue, Svelete, Preact, SolidJS 등을 사용할 수 있지만, React가 가장 오래되고 참고자료가 많다.
+  - React는 'HTML/CSS/Javascript 웹개발을 편리하게 도와주는 라이브러리'이다.
+------- 
+- **Q2) React를 쓰면 얻을 수 있는 장점**
+  - 사용유저가 많고 오래되어, 참고할 수 있는 자료가 많다.
+  - React를 쓰면 html 재사용이 편리해진다.
+  - 같은 문법으로 앱개발도 가능해진다. (React Native)
