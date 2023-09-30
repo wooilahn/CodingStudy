@@ -1,6 +1,4 @@
 # Effective_Kotlin
-### CHAPTER 1
-
 <div align="center">
     <details open>
     <summary> <h3> CHAPTER 1 - 안정성 </h3> </summary>
